@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.bg-cont {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  background-size: cover;
+  padding: 80px;
+}
+.main-head {
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: bold;
+  color: #419be0;
+  text-align: center;
+}
